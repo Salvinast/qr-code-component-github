@@ -1,0 +1,47 @@
+body, html {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    
+
+
+}
+
+.component {
+    background: white;
+    max-width: 20rem;
+    padding: 1.3rem;
+    border-radius: 1rem;
+    margin: auto;
+}
+
+
+
+img {
+    max-width: 3724rem;
+    height: auto;
+    border-radius: 1rem;
+    width: 100%;
+}
+
+h1 {
+    max-width: 18rem;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    margin: auto;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    font-size: 1rem;
+    max-width: 17rem;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-weight: lighter;
+    
+}
